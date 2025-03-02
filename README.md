@@ -1,24 +1,19 @@
 # 🌙 JamBira++: Teman Setia dalam Menyambut Waktu Shalat
 
-## Kadaluwarsa
-
-Aplikasi jamBira++ berakhir hingga tanggal: **[Expired](kadaluwarsa.txt)**, 
-ingin lebih hubungi alamat email di bawah.
-
 ---
 
 ## Tentang jamBira++
 
-Apakah Anda sering kali melewatkan waktu shalat atau sahur di tengah kesibukan 
-sehari-hari? Kini, hadir solusi cerdas yang akan mengingatkan Anda dengan cara 
-yang unik dan menyenangkan! Perkenalkan, **jamBira++** – aplikasi notifikasi 
-adzan yang bukan hanya sekadar pengingat, tetapi juga pengalaman audio yang 
-menyentuh hati. 🎶
+Apakah Anda sering kali melewatkan waktu **shalat atau sahur** di tengah 
+kesibukan sehari-hari? Kini, hadir solusi cerdas yang akan mengingatkan Anda 
+dengan cara yang unik dan menyenangkan! Perkenalkan, **jamBira++** – aplikasi 
+notifikasi adzan yang bukan hanya sekadar pengingat, tetapi juga pengalaman 
+audio yang menyentuh hati. 🎶
 
 ## 🎉 Rasakan Keajaiban Suara yang Menyentuh
 
 Bayangkan, sebelum sahur, Anda disambut oleh suara ayam berkukuruyuk atau 
-gemericik air terjun yang menenangkan. Dengan jamBira++, Anda dapat 
+gemericik air terjun yang menenangkan. Dengan **jamBira++**, Anda dapat 
 menyesuaikan notifikasi sesuai selera, menjadikan setiap momen lebih bermakna. 
 Meskipun banyak aplikasi adzan di luar sana, jamBira++ menawarkan pendekatan 
 yang berbeda dengan antarmuka berbasis teks yang sederhana namun efektif.
@@ -27,22 +22,22 @@ yang berbeda dengan antarmuka berbasis teks yang sederhana namun efektif.
 
 Dapatkan pengalaman spiritual yang lebih mendalam dengan notifikasi yang 
 berbicara langsung kepada Anda. Bayangkan, saat waktu shalat tiba, aplikasi ini 
-memberi tahu Anda dengan sentuhan personal: "Selamat Pagi, Bos! Alkhamdulillah, 
-sisa waktu Duha masih 1 jam, dan ditambah 34 menit lagi." Siap untuk menjadikan 
-setiap panggilan shalat sebagai momen yang tak terlupakan? Bergabunglah dengan 
-kami dan rasakan keajaiban jamBira++!
+memberi tahu Anda dengan sentuhan personal: **"Selamat Pagi, Bos Endro!** 
+**Alkhamdulillah, sisa waktu Duha masih 1 jam, dan ditambah 34 menit lagi."** 
+Siap untuk menjadikan setiap panggilan shalat sebagai momen yang tak 
+terlupakan? Bergabunglah dengan kami dan rasakan keajaiban jamBira++!
 
 ## 🌟 Fitur Unggulan jamBira++
 
 - **Notifikasi Suara yang Menyentuh** 🎤  
   Dapatkan notifikasi teks yang diperdengarkan dalam bentuk suara menjelang 
-  sahur, sebelum adzan, saat adzan, dan saat iqomah. Suara lembut dan 
-  menenangkan akan mengingatkan Anda untuk tidak melewatkan waktu shalat.
+  **sahur, sebelum adzan, saat adzan, saat iqomah dan ngabuburit**. Suara 
+  lembut dan menenangkan akan mengingatkan Anda untuk tidak melewatkan waktu 
+  shalat.
 
 - **Kustomisasi Audio** 🎵  
   Sesuaikan pengalaman mendengarkan Anda dengan memilih audio yang sesuai. 
-  Apakah Anda ingin mendengar suara ayam berkukuruyuk, jangkrik berderik, atau 
-  gemericik air terjun? Semua bisa Anda atur sesuai selera!
+  Apakah Anda ingin mendengar suara **ayam berkukuruyuk, jangkrik berderik,** **atau gemericik air terjun?** Semua bisa Anda atur sesuai selera!
 
 - **Pesan Interaktif** 💬  
   Bayangkan, aplikasi ini bisa berbicara kepada Anda! "Selamat Pagi, Bos! 
@@ -79,7 +74,7 @@ kami dan rasakan keajaiban jamBira++!
 ## 🚀 Cara Memulai
 
 1. **Instal Termux**: Pastikan Anda telah menginstal Termux dan Termux:API di 
-    perangkat Android Anda. Gunakan F-Droid untuk install Termux:API.
+    perangkat Android Anda. Gunakan **F-Droid** untuk install **Termux:API**.
 2. **Unduh jamBira++**: Clone repositori ini ke perangkat Android milik Anda di  
     direktori/data/data/com.termux/files/home.
 3. **Ketikkan termux-setup-storage**: CLI Termux dan pilih Yes.
@@ -101,6 +96,11 @@ kami dan rasakan keajaiban jamBira++!
 ## 📄 Lisensi
 
 Aplikasi ini dilisensikan di bawah [MIT License](LICENSE).
+
+## Kadaluwarsa
+
+Aplikasi jamBira++ berakhir hingga tanggal: **[Expired](kadaluwarsa.txt)**, 
+ingin lebih hubungi alamat email di bawah.
 
 ## 📞 Kontak
 
