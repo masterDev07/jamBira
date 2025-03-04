@@ -99,7 +99,7 @@ Aplikasi ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## Kadaluwarsa
 
-Aplikasi jamBira++ berakhir hingga tanggal: **[Expired](kadaluwarsa.txt)**, 
+Aplikasi jamBira++ berakhir hingga tanggal **[Expired](kadaluwarsa.txt)**, 
 ingin lebih hubungi alamat email di bawah.
 
 ## 📞 Kontak
