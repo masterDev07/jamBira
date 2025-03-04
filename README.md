@@ -109,6 +109,10 @@ Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi kami di
 
 ---
 
+| <img src="gambar/main.png" alt="Tampilan Utama jamBira++" width="250"/> | <img src="gambar/mjHj.png" alt="Matikan dan Hidupkan Ngomong Jam" width="300"/> | <img src="gambar/jadwal.png" alt="Jadwal Lengkap" width="250"/> |
+|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
+| Tampilan Utama                                      | Matikan dan Hidupkan Ngomong Jam                                      | Jadwal Lengkap                                      |
+
 ## 📜 Last But Not List
 
 JamBira++ bukan hanya sekadar aplikasi, tetapi sebuah pengalaman spiritual yang 
