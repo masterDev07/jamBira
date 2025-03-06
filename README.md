@@ -89,9 +89,9 @@ terlupakan? Bergabunglah dengan kami dan rasakan keajaiban jamBira++!
 
 ## 🚀 Perintah Yang Sering Dijalankan di CLI
 
-1. **mj**: Opsi menonaktifkan ngomong jam.
-2. **hj**: Opsi mengaktifkan ngomong jam.
-3. **ma**: Opsi menonaktifkan audio.
+1. **mj** : Opsi menonaktifkan ngomong jam.
+2. **hj** : Opsi mengaktifkan ngomong jam.
+3. **ma** : Opsi menonaktifkan audio.
 
 ## 📄 Lisensi
 
