@@ -15,7 +15,7 @@ audio yang menyentuh hati. 🎶
 Bayangkan, sebelum sahur, Anda disambut oleh suara ayam berkukuruyuk atau 
 gemericik air terjun yang menenangkan. Dengan **jamBira++**, Anda dapat 
 menyesuaikan notifikasi sesuai selera, menjadikan setiap momen lebih bermakna. 
-Meskipun banyak aplikasi adzan di luar sana, jamBira++ menawarkan pendekatan 
+Meskipun banyak aplikasi adzan di luar sana, **jamBira++** menawarkan pendekatan 
 yang berbeda dengan antarmuka berbasis teks yang sederhana namun efektif.
 
 ## 🙏 Pengalaman Spiritual yang Mendalam
