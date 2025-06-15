@@ -80,12 +80,16 @@ terlupakan? Bergabunglah dengan kami dan rasakan keajaiban jamBira++!
 3. **Ketikkan termux-setup-storage**: CLI Termux dan pilih Yes.
 4. **Ketikkan ./installerJamBira**: Ada di direktori alatBantu. Perangkat 
     Android harus terkoneksi dengan jaringan internet.
-5. **Ketikkan jb 4**: Membuat ngomong jam dan waktu salat saat ini.
-6. **Ketikkan jb help**: Opsi yang lain setelah jb.
+5. **Ketikkan mv konfigurasi /data/data/com.termux/files/home/storage/shared/jamBira**	  : Memindahkan semua file dan direktori untuk konfigurasi,file audio dan lain-lain.
+6. **Ketikkan jb reboot**: Membuat jadwal shalat dan cekJadwalshalat.txt jika tidak ada.
+7. **Ketikkan jb sol**: Menampilkan jadwal shalat dan membuat file jadwalShalat.txt 
+	jika tidak ada.
+8. **Ketikkan jb 4**: Membuat ngomong jam dan waktu salat saat ini.
+9. **Ketikkan jb help**: Opsi yang lain setelah jb.
 10. **File Konfigurasi jamBira++**: Ada di direktori :
     /data/data/com.termux/files/home/storage/shared/jamBira yaitu 
-    jamBira_configuration.conf,jamBira_suaraDanteks.conf dan 
-    jadwalShalat_configuration.conf gunakan text editor kesukaan Anda di Android.
+    jamBira_configuration.conf,jamBira_suaraDanteks.conf,koreksi_hijriyah.conf dan 
+    gps_configuration.conf gunakan text editor kesukaan Anda di Android untuk mengkonfigurasi jamBira++. Misal koreksi gps sesuai lokasi tempat Anda di gps_configuration dan lain-lain.
 
 ## 🚀 Perintah Yang Sering Dijalankan di CLI
 
