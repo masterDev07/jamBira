@@ -75,8 +75,7 @@ terlupakan? Bergabunglah dengan kami dan rasakan keajaiban jamBira++!
 
 1. **Instal Termux**: Pastikan Anda telah menginstal Termux dan Termux:API di 
     perangkat Android Anda. Gunakan **F-Droid** untuk install **Termux:API**.
-2. **Unduh jamBira++**: Clone repositori ini ke perangkat Android milik Anda di  
-    direktori/data/data/com.termux/files/home.
+2. **Unduh jamBira++**: Download paket jamBira++ di halaman release.
 3. **Ketikkan termux-setup-storage**: CLI Termux dan pilih Yes.
 4. **Ketikkan ./installerJamBira**: Ada di direktori alatBantu. Perangkat 
     Android harus terkoneksi dengan jaringan internet.
